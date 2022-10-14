@@ -262,6 +262,7 @@ fecha="2022-10-14"#datetime.now().strftime('%Y-%m-%d')
 if __name__ == "__main__":
 
     from dask.distributed import Client
+    
     inicio = time.time()
     utl.crear_carpetas(fecha,"out_ejecucion_alexis","out_plots_alexis")
     
