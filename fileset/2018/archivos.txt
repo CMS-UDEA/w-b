@@ -1,0 +1,25 @@
+SingleMuon -oK
+TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8 - ok
+TTToHadronic_TuneCP5_13TeV-powheg-pyth - ok
+TTToSemiLeptonic_TuneCP5_13TeV-powheg  - ok
+
+ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8 - OK
+WW_TuneCP5_13TeV-pythia8 - ok
+WZ_TuneCP5_13TeV-pythia8 - ok
+ZZ_TuneCP5_13TeV-pythia8 - ok
+
+WJetsToLNu_HT-70To100 - ok
+WJetsToLNu_HT-100To200 - ok 
+WJetsToLNu_HT-200To400 -ok
+WJetsToLNu_HT-400To600 - ok
+WJetsToLNu_HT-600To800 - ok
+WJetsToLNu_HT-800To1200 - ok
+WJetsToLNu_HT-1200To2500 - ok 
+WJetsToLNu_HT-2500ToInf  -ok
+
+
+DYJetsToLL_Pt-50To100
+DYJetsToLL_Pt-100To250
+DYJetsToLL_Pt-250To400
+DYJetsToLL_Pt-400To650
+DYJetsToLL_Pt-650ToInf

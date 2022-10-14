@@ -1,0 +1,1 @@
+{"prueba":["/store/mc/RunIISummer20UL17NanoAODv2/WW_TuneCP5_13TeV-pythia8/NANOAODSIM/106X_mc2017_realistic_v8-v1/40000/DDD12247-B7C1-4D40-9D9E-D00F981B5142.root"]}
