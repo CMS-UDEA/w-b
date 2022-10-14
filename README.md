@@ -1,1 +1,1 @@
-# wprime_plus_b
+# w'+b
