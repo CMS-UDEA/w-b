@@ -1,4 +1,4 @@
-dic_data={"2017":["DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8",
+{"dic_data":{"2017":["DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8",
                       "DYJetsToLL_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8",
                       "DYJetsToLL_Pt-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8",
                       "DYJetsToLL_Pt-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8",
@@ -20,3 +20,4 @@ dic_data={"2017":["DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXF
                       "WZ_TuneCP5_13TeV-pythia8",
                       "ZZ_TuneCP5_13TeV-pythia8",
                       "SingleElectron"]}
+}
